@@ -14,7 +14,7 @@ Created by **Nadia Safeer** 👩‍💻
 
 ## 🚀 Run in Google Colab
 Click below to open and run directly in Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nadiya-safeer11/phonetics-vowel-counter/blob/main/vowel_counter.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nadiya-safeer11/phonetics-vowel-counter/blob/main/vowel_counter.ipynb)
 
 ---
 
