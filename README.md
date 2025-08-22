@@ -25,4 +25,8 @@ Click below to open and run directly in Colab:
    git clone https://github.com/Nadiya-safeer11/phonetics-vowel-counter.git
 cd phonetics-vowel-counter
 python vowel_counter.py
+![Example Chart](example_chart.png)
+![Python](https://img.shields.io/badge/python-3.9-blue) 
+![Matplotlib](https://img.shields.io/badge/matplotlib-visualisation-green) 
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
