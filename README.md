@@ -23,6 +23,12 @@ Click below to open and run directly in Colab:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nadiya-safeer11/phonetics-vowel-counter.git
+
+   ## 📄 License
+This project is licensed under the **MIT License** – you are free to use, modify, and distribute it, provided proper credit is given.  
+
+See the [LICENSE](LICENSE) file for more details.
+
 cd phonetics-vowel-counter
 python vowel_counter.py
 ![Example Chart](example_chart.png)
