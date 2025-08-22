@@ -24,7 +24,7 @@ Click below to open and run directly in Colab:
    ```bash
    git clone https://github.com/Nadiya-safeer11/phonetics-vowel-counter.git
 
- See the [LICENSE](LICENSE) file for more details.
+See the [LICENSE](https://github.com/Nadiya-safeer11/phonetics-vowel-counter/blob/main/LICENSE) file for more details.
 
 cd phonetics-vowel-counter
 python vowel_counter.py
